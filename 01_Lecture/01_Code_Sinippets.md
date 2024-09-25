@@ -60,3 +60,11 @@ my-first-app/
 - App.js is the main component that gets rendered by index.js.
 
 By following these notes, you can quickly set up React on your local machine and understand the foundational concepts of how React works.
+
+## Contact
+If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
+
+- GitHub: https://github.com/ankita34359
+- Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
+  
+Stay tuned as I add more content and practical examples to deepen my understanding of Operating Systems! 
