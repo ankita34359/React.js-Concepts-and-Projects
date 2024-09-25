@@ -30,3 +30,18 @@ Once the project is set up, you can start the development server by running:
 npm start
 
 This will start a local server and open the React app in your default web browser at http://localhost:3000/. The page will automatically reload whenever you make changes to your code.
+
+### 3. Project Structure Overview
+
+After running create-react-app, the project folder structure looks like this:
+
+my-first-app/
+├── node_modules/          # Dependency packages
+├── public/                # Static assets (e.g., index.html)
+├── src/                   # Source code for the app
+│   ├── App.js             # Main component
+│   ├── index.js           # Entry point for React
+│   └── ...
+├── .gitignore             # Git ignored files
+├── package.json           # Project metadata and dependencies
+└── README.md              # Project documentation
