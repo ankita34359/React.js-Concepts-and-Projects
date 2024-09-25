@@ -5,6 +5,10 @@ Welcome to my React.js learning repository! This repository documents my journey
 ## 📖 Overview
 This repo is structured to reflect a step-by-step learning process. Each section follows the natural progression from beginner to advanced topics, accompanied by practical examples and mini-projects.
 
+## Repository Structure
+
+01_Lecture: Introduction to React & Installation
+
 ## Contact
 If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
 
