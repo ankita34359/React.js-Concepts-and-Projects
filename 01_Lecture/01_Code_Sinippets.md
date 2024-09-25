@@ -35,7 +35,8 @@ This will start a local server and open the React app in your default web browse
 
 After running create-react-app, the project folder structure looks like this:
 
-- my-first-app/
+my-first-app/
+  
 - ├── node_modules/          # Dependency packages
 - ├── public/                # Static assets (e.g., index.html)
 - ├── src/                   # Source code for the app
