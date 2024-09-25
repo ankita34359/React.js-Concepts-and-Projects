@@ -50,3 +50,5 @@ my-first-app/
 - public/: Contains the static assets such as index.html and icons. This is where the root HTML file resides.
 - src/: Contains all the React components, styles, and business logic.
 - App.js is the main component that gets rendered by index.js.
+
+By following these notes, anyone can quickly set up React on their local machine and understand the foundational concepts of how React works.
