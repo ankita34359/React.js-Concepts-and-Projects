@@ -10,3 +10,11 @@
 ### Key Features:
 - Component-Based: UIs in React are built from small, isolated pieces of code called components, making it easier to manage and reuse code.
 - Virtual DOM: React uses an in-memory representation of the real DOM (Document Object Model). This makes rendering fast by only updating the changed parts of the DOM instead of re-rendering the entire page.
+
+## Contact
+If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
+
+- GitHub: https://github.com/ankita34359
+- Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
+  
+Stay tuned as I add more content and practical examples to deepen my understanding of Operating Systems! 
