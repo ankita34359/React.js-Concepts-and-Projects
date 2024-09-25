@@ -37,6 +37,7 @@ After running create-react-app, the project folder structure looks like this:
 
 my-first-app/
 
+```
 ├── node_modules/          # Dependency packages
 
 ├── public/                # Static assets (e.g., index.html)
