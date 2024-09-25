@@ -46,3 +46,7 @@ my-first-app/
 - ├── .gitignore             # Git ignored files
 - ├── package.json           # Project metadata and dependencies
 - └── README.md              # Project documentation
+
+- public/: Contains the static assets such as index.html and icons. This is where the root HTML file resides.
+- src/: Contains all the React components, styles, and business logic.
+- App.js is the main component that gets rendered by index.js.
