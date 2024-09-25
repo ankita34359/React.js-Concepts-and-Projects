@@ -15,7 +15,6 @@ To check if Node.js and npm are installed:
 React offers an easy-to-use tool called Create React App to quickly scaffold a new React project.
 
 Command to create a new React application:
-
 npx create-react-app my-first-app
 
 - npx: A package runner tool that comes with npm 5.2+.
@@ -23,7 +22,6 @@ npx create-react-app my-first-app
 - my-first-app: The name of the folder where our new React project will be created.
 
 Navigate into the new project directory:
-
 cd my-first-app
 
 ### Step 3: Running the React Application
