@@ -51,4 +51,4 @@ my-first-app/
 - src/: Contains all the React components, styles, and business logic.
 - App.js is the main component that gets rendered by index.js.
 
-By following these notes, anyone can quickly set up React on their local machine and understand the foundational concepts of how React works.
+By following these notes, you can quickly set up React on your local machine and understand the foundational concepts of how React works.
