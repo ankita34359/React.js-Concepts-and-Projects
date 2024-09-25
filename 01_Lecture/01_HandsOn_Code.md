@@ -18,7 +18,7 @@ React offers an easy-to-use tool called Create React App to quickly scaffold a n
 
 Command to create a new React application:
 ```
-**npx create-react-app my-first-app**
+npx create-react-app my-first-app
 ```
 
 - *npx:* A package runner tool that comes with npm 5.2+.
@@ -27,14 +27,14 @@ Command to create a new React application:
 
 Navigate into the new project directory:
 ```
-**cd my-first-app**
+cd my-first-app
 ```
 
 ### Step 3: Running the React Application
 
 Once the project is set up, you can start the development server by running:
 ```
-**npm start**
+npm start
 ```
 
 This will start a local server and open the React app in your default web browser at http://localhost:3000/. The page will automatically reload whenever you make changes to your code.
