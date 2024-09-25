@@ -37,15 +37,23 @@ After running create-react-app, the project folder structure looks like this:
 
 my-first-app/
   
-- ├── node_modules/          # Dependency packages
-- ├── public/                # Static assets (e.g., index.html)
-- ├── src/                   # Source code for the app
-- │   ├── App.js             # Main component
-- │   ├── index.js           # Entry point for React
-- │   └── ...
-- ├── .gitignore             # Git ignored files
-- ├── package.json           # Project metadata and dependencies
-- └── README.md              # Project documentation
+├── node_modules/          # Dependency packages
+
+├── public/                # Static assets (e.g., index.html)
+
+├── src/                   # Source code for the app
+
+│   ├── App.js             # Main component
+
+│   ├── index.js           # Entry point for React
+
+│   └── ...
+
+├── .gitignore             # Git ignored files
+
+├── package.json           # Project metadata and dependencies
+
+└── README.md              # Project documentation
 
 - public/: Contains the static assets such as index.html and icons. This is where the root HTML file resides.
 - src/: Contains all the React components, styles, and business logic.
