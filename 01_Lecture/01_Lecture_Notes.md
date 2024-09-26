@@ -17,4 +17,4 @@ If you have any questions, suggestions, or would like to discuss OS concepts, fe
 - GitHub: https://github.com/ankita34359
 - Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
   
-Stay tuned as I add more content and practical examples to deepen my understanding of React Js! 
+Stay tuned as I add more content and practical examples to deepen my understanding of React Js!  
