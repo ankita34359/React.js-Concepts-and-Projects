@@ -34,3 +34,32 @@ const element = <h1>Hello, {name}!</h1>;
 ```
 
 In this case, the {name} will be replaced with the value of the name variable, which is "Ankita", so it will display Hello, Ankita!.
+
+### 2. JSX Needs One Parent Element
+
+JSX elements must be wrapped in a single parent element. If you have multiple elements, they must all be inside one parent, like a div or a fragment (<> </>).
+
+Example:
+
+```
+// Correct way
+return (
+  <div>
+    <h1>Title</h1>
+    <p>This is a paragraph.</p>
+  </div>
+);
+
+```
+
+Alternatively, you can use a fragment to avoid extra div tags:
+
+```
+return (
+  <>
+    <h1>Title</h1>
+    <p>This is a paragraph.</p>
+  </>
+);
+
+```
