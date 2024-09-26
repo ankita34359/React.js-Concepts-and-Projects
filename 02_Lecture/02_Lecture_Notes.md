@@ -63,3 +63,26 @@ return (
 );
 
 ```
+
+### 3. JSX Attributes
+
+JSX uses attributes similar to HTML, but with some differences:
+
+- class becomes className in JSX.
+- for becomes htmlFor.
+  
+Example:
+
+```
+const element = <div className="header">This is a header</div>;
+
+```
+
+#### Self-Closing Tags:
+
+Some elements like <img /> and <input /> don’t need closing tags, so you can write them as self-closing:
+
+```
+const element = <img src="image.jpg" alt="Sample" />;
+
+```
