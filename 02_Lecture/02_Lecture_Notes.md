@@ -86,3 +86,31 @@ Some elements like <img /> and <input /> don’t need closing tags, so you can w
 const element = <img src="image.jpg" alt="Sample" />;
 
 ```
+
+### 4. JSX is Safe
+
+JSX automatically escapes any JavaScript or HTML code you put inside it. This means it protects your app from dangerous code (like scripts) that could harm your site.
+
+Example:
+
+```
+const userInput = "<script>alert('Hacked!');</script>";
+const element = <div>{userInput}</div>;  // React shows it as text, not as code.
+
+```
+
+### 5. Styling with JSX
+
+To add styles directly in JSX, you use an object where the style names are written in camelCase. For example, background-color becomes backgroundColor.
+
+Example:
+
+```
+const styleObject = {
+  color: 'blue',
+  backgroundColor: 'lightgray'
+};
+
+const element = <div style={styleObject}>Styled Text</div>;
+
+```
