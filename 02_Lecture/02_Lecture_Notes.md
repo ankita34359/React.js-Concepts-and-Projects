@@ -17,7 +17,7 @@ const element = <h1>Hello, world!</h1>;
 
 ```
 
-This line of code looks like HTML but is converted by React into JavaScript that the browser can understand.
+This line of code looks like HTML but is converted by React into JavaScript that the browser can understand. 
 
 ## Key Points About JSX
 
