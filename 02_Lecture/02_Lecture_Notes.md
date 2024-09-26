@@ -114,3 +114,11 @@ const styleObject = {
 const element = <div style={styleObject}>Styled Text</div>;
 
 ```
+
+## Key Takeaways
+
+- JSX allows you to write HTML-like code in JavaScript, making it easier to build UI elements.
+- We can insert JavaScript code inside JSX using curly braces {}.
+- Every JSX element needs a parent element.
+- JSX escapes harmful code, making your app safe from attacks.
+- Attributes are similar to HTML, but some like class and for need to be changed to className and htmlFor.
