@@ -122,3 +122,13 @@ const element = <div style={styleObject}>Styled Text</div>;
 - Every JSX element needs a parent element.
 - JSX escapes harmful code, making your app safe from attacks.
 - Attributes are similar to HTML, but some like class and for need to be changed to className and htmlFor.
+
+## Contact
+
+If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
+
+- GitHub: https://github.com/ankita34359
+- Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
+  
+Stay tuned as I add more content and practical examples to deepen my understanding of React Js! 
+
