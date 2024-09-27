@@ -8,6 +8,7 @@ This repo is structured to reflect a step-by-step learning process. Each section
 ## Repository Structure
 
 ### 01_Lecture: Introduction to React & Installation
+### 02_Lecture: Understanding JSX in React
 
 ## Contact
 If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
