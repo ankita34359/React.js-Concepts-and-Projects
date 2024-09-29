@@ -14,6 +14,8 @@ A website is essentially a collection of files (HTML, CSS, JavaScript, images, e
   
 This basic flow forms the backbone of web applications, whether simple websites or more advanced web apps.
 
+---
+
 ## 🔄 Multi-Page Application (MPA) vs. Single-Page Application (SPA)
 
 ### Multi-Page Application (MPA)
