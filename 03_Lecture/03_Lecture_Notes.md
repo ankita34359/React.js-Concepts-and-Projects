@@ -105,3 +105,5 @@ Bootstrap is a popular open-source CSS framework that helps developers quickly d
 - **Responsive Grid System:** Helps in creating layouts that adjust to different screen sizes.
 - **Pre-designed Components:** Includes buttons, forms, navigation bars, modals, and more.
 - **Customization:** You can easily customize the default Bootstrap styles.
+
+By adding Bootstrap, we can quickly style our React components without spending much time on custom CSS.
