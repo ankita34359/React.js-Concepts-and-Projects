@@ -93,3 +93,9 @@ When you create a React app using create-react-app, a folder called node_modules
 ```
 
 - **node_modules:** This folder contains all the installed packages. It’s crucial for running and building our React app, but it is automatically generated based on package.json.
+
+## 🎨 Introduction to Bootstrap
+
+### What is Bootstrap?
+
+Bootstrap is a popular open-source CSS framework that helps developers quickly design responsive and mobile-first websites. It provides a collection of pre-built CSS classes and JavaScript components that you can use to create a professional-looking website without writing a lot of custom CSS.
