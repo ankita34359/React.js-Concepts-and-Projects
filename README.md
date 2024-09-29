@@ -9,6 +9,7 @@ This repo is structured to reflect a step-by-step learning process. Each section
 
 #### 01_Lecture: Introduction to React & Installation
 #### 02_Lecture: Understanding JSX in React
+#### 03_Lecture: Understanding Basic Website Functionality, SPA vs. MPA, Node Modules and Bootstrap
 
 ## Contact
 If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
