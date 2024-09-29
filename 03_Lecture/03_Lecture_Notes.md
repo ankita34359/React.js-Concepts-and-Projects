@@ -75,5 +75,6 @@ When you create a React app using create-react-app, a folder called node_modules
 
 ### Key Points About node_modules:
 
-- **Not included in version control:*** The node_modules folder is typically added to .gitignore because it is huge and can be re-generated using npm install by anyone who clones the project.
+- **Not included in version control:** The node_modules folder is typically added to .gitignore because it is huge and can be re-generated using npm install by anyone who clones the project.
+  
 - **Dependencies and Sub-dependencies:** It contains not only the main dependencies you install (like React) but also the dependencies of those dependencies.
