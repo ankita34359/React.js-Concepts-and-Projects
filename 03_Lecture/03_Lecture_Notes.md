@@ -81,4 +81,13 @@ When you create a React app using create-react-app, a folder called node_modules
 
 ## How It Works in React:
 
-**package.json:** This file lists all the project’s dependencies. When you run npm install, it reads this file and installs the required modules inside node_modules.
+- **package.json:** This file lists all the project’s dependencies. When you run npm install, it reads this file and installs the required modules inside node_modules.
+
+### Example from package.json:
+
+```
+"dependencies": {
+  "react": "^18.0.0",
+  "react-dom": "^18.0.0"
+}
+```
