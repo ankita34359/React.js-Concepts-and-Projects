@@ -37,3 +37,26 @@ In an MPA, every time the user clicks on a link, the browser makes a request to 
 | Browser |  ---------------------->   |  Server  |
 +---------+        Load Page 2          +----------+
 ```
+
+Every user interaction that requires navigation triggers a server request, resulting in multiple full-page reloads.
+
+### Single-Page Application (SPA)
+
+In an SPA, the entire website is loaded as a single HTML page. After the initial load, the application dynamically updates the content based on user interaction without reloading the entire page.
+
+#### Features:
+
+- No full-page reloads; only parts of the page are updated.
+- Faster and more interactive experience.
+- Less server load after the initial load.
+- Content is rendered dynamically using React.
+
+#### Diagram:
+```
+
++---------+        Initial Load       +----------+
+| Browser |  ---------------------->  |  Server  |
++---------+       Load SPA Shell       +----------+
+   ⬇                                     ⬆
+  User Navigates       Update Content (without page reload)
+```
