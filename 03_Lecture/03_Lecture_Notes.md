@@ -107,3 +107,12 @@ Bootstrap is a popular open-source CSS framework that helps developers quickly d
 - **Customization:** You can easily customize the default Bootstrap styles.
 
 By adding Bootstrap, we can quickly style our React components without spending much time on custom CSS.
+
+## Contact
+
+If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
+
+- GitHub: https://github.com/ankita34359
+- Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
+  
+Stay tuned as I add more content and practical examples to deepen my understanding of React Js! 
