@@ -99,3 +99,9 @@ When you create a React app using create-react-app, a folder called node_modules
 ### What is Bootstrap?
 
 Bootstrap is a popular open-source CSS framework that helps developers quickly design responsive and mobile-first websites. It provides a collection of pre-built CSS classes and JavaScript components that you can use to create a professional-looking website without writing a lot of custom CSS.
+
+## Key Features:
+
+- **Responsive Grid System:** Helps in creating layouts that adjust to different screen sizes.
+- **Pre-designed Components:** Includes buttons, forms, navigation bars, modals, and more.
+- **Customization:** You can easily customize the default Bootstrap styles.
