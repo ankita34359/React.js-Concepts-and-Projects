@@ -25,3 +25,15 @@ In an MPA, every time the user clicks on a link, the browser makes a request to 
 - Multiple full-page reloads.
 - Suitable for larger applications with lots of content.
 - SEO-friendly due to server-rendered pages.
+
+#### Diagram:
+
+```
++---------+        Request Page 1      +----------+
+| Browser |  ---------------------->   |  Server  |
++---------+        Load Page 1          +----------+
+   ⬇                                     ⬆
++---------+        Request Page 2      +----------+
+| Browser |  ---------------------->   |  Server  |
++---------+        Load Page 2          +----------+
+```
