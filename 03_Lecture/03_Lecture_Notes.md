@@ -15,3 +15,13 @@ A website is essentially a collection of files (HTML, CSS, JavaScript, images, e
 This basic flow forms the backbone of web applications, whether simple websites or more advanced web apps.
 
 ## 🔄 Multi-Page Application (MPA) vs. Single-Page Application (SPA)
+
+### Multi-Page Application (MPA)
+
+In an MPA, every time the user clicks on a link, the browser makes a request to the server, and a new HTML page is loaded. Each page is independent of the other.
+
+#### Features:
+
+- Multiple full-page reloads.
+- Suitable for larger applications with lots of content.
+- SEO-friendly due to server-rendered pages.
