@@ -94,6 +94,8 @@ When you create a React app using create-react-app, a folder called node_modules
 
 - **node_modules:** This folder contains all the installed packages. It’s crucial for running and building our React app, but it is automatically generated based on package.json.
 
+---
+
 ## 🎨 Introduction to Bootstrap
 
 ### What is Bootstrap?
