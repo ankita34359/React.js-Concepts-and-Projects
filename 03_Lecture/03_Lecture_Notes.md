@@ -64,5 +64,4 @@ In an SPA, the entire website is loaded as a single HTML page. After the initial
 ```
 
 In an SPA, once the page is loaded, the client-side JavaScript (like React) handles the content update, providing a smooth user experience.
-
 ---
