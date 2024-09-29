@@ -13,3 +13,5 @@ A website is essentially a collection of files (HTML, CSS, JavaScript, images, e
 - **Rendering:** The browser renders the HTML, applies the CSS for styling, and runs JavaScript for interactivity.
   
 This basic flow forms the backbone of web applications, whether simple websites or more advanced web apps.
+
+## 🔄 Multi-Page Application (MPA) vs. Single-Page Application (SPA)
