@@ -62,3 +62,4 @@ In an SPA, the entire website is loaded as a single HTML page. After the initial
    ⬇                                     ⬆
   User Navigates       Update Content (without page reload)
 ```
+---
