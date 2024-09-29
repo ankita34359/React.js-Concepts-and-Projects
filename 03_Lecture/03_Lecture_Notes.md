@@ -64,4 +64,16 @@ In an SPA, the entire website is loaded as a single HTML page. After the initial
 ```
 
 In an SPA, once the page is loaded, the client-side JavaScript (like React) handles the content update, providing a smooth user experience.
+
 ---
+
+## 📦 Node Modules in React
+
+### What Are Node Modules?
+
+When you create a React app using create-react-app, a folder called node_modules is created. This folder contains all the packages (libraries and dependencies) that the project relies on. These packages are downloaded using the Node Package Manager (npm).
+
+### Key Points About node_modules:
+
+- **Not included in version control:*** The node_modules folder is typically added to .gitignore because it is huge and can be re-generated using npm install by anyone who clones the project.
+- **Dependencies and Sub-dependencies:** It contains not only the main dependencies you install (like React) but also the dependencies of those dependencies.
