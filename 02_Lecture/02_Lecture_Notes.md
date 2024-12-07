@@ -121,7 +121,7 @@ const element = <div style={styleObject}>Styled Text</div>;
 - We can insert JavaScript code inside JSX using curly braces {}.
 - Every JSX element needs a parent element.
 - JSX escapes harmful code, making your app safe from attacks.
-- Attributes are similar to HTML, but some like class and for need to be changed to className and htmlFor.
+- Attributes are similar to HTML, but some like 'class' and 'for' need to be changed to 'className' and 'htmlFor'.
 
 ## Contact
 
