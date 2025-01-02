@@ -12,7 +12,7 @@ This repo is structured to reflect a step-by-step learning process. Each section
 #### 03_Lecture: Understanding Basic Website Functionality, SPA vs. MPA, Node Modules and Bootstrap
 
 ## Contact
-If you have any questions, suggestions, or would like to discuss OS concepts, feel free to reach out:
+If you have any questions, suggestions, or would like to discuss React.js concepts, feel free to reach out:
 
 - GitHub: https://github.com/ankita34359
 - Linkedin: https://www.linkedin.com/in/ankita-gupta-34359abcd/
